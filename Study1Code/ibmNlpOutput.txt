@@ -1,0 +1,335 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15718,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Netezza data warehouse",
+      "relevance": 0.978546
+    },
+    {
+      "text": "IBM Netezza data",
+      "relevance": 0.938087
+    },
+    {
+      "text": "data warehouse appliance",
+      "relevance": 0.919615
+    },
+    {
+      "text": "company",
+      "relevance": 0.510644
+    },
+    {
+      "text": "software company",
+      "relevance": 0.481066
+    },
+    {
+      "text": "financial software company",
+      "relevance": 0.446164
+    },
+    {
+      "text": "data warehouse appliances",
+      "relevance": 0.445917
+    },
+    {
+      "text": "IBM Netezza appliance",
+      "relevance": 0.44452
+    },
+    {
+      "text": "IBM Netezza community",
+      "relevance": 0.41267
+    },
+    {
+      "text": "big data",
+      "relevance": 0.397786
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Business intelligence",
+      "relevance": 0.965331,
+      "dbpedia_resource": "http://dbpedia.org/resource/Business_intelligence"
+    },
+    {
+      "text": "Data mining",
+      "relevance": 0.657357,
+      "dbpedia_resource": "http://dbpedia.org/resource/Data_mining"
+    },
+    {
+      "text": "Data warehouse appliance",
+      "relevance": 0.568004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Data_warehouse_appliance"
+    }
+  ]
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9550,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IBM InfoSphere",
+      "relevance": 0.948158
+    },
+    {
+      "text": "Automercados Plaza",
+      "relevance": 0.882535
+    },
+    {
+      "text": "information",
+      "relevance": 0.823439
+    },
+    {
+      "text": "IBM InfoSphere Information",
+      "relevance": 0.820089
+    },
+    {
+      "text": "InfoSphere Information Analyzer",
+      "relevance": 0.657707
+    },
+    {
+      "text": "InfoSphere Information Server",
+      "relevance": 0.654115
+    },
+    {
+      "text": "IBM InfoSphere software",
+      "relevance": 0.649084
+    },
+    {
+      "text": "IBM InfoSphere DataStage",
+      "relevance": 0.548294
+    },
+    {
+      "text": "IBM InfoSphere QualityStage",
+      "relevance": 0.543369
+    },
+    {
+      "text": "leveraged IBM InfoSphere",
+      "relevance": 0.527852
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IBM",
+      "relevance": 0.958768,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+    },
+    {
+      "text": "SAP AG",
+      "relevance": 0.887435,
+      "dbpedia_resource": "http://dbpedia.org/resource/SAP_AG"
+    },
+    {
+      "text": "Trademark",
+      "relevance": 0.811426,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trademark"
+    }
+  ]
+}
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 13288,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "data warehouse appliance",
+      "relevance": 0.920366
+    },
+    {
+      "text": "Netezza data warehouse",
+      "relevance": 0.916538
+    },
+    {
+      "text": "IBM Netezza data",
+      "relevance": 0.883912
+    },
+    {
+      "text": "Barnes",
+      "relevance": 0.369276
+    },
+    {
+      "text": "Williams",
+      "relevance": 0.364316
+    },
+    {
+      "text": "IBM Netezza implementation",
+      "relevance": 0.362627
+    },
+    {
+      "text": "data warehouse appliances",
+      "relevance": 0.356653
+    },
+    {
+      "text": "Noble",
+      "relevance": 0.352057
+    },
+    {
+      "text": "IBM Netezza community",
+      "relevance": 0.347549
+    },
+    {
+      "text": "IBM Netezza. data",
+      "relevance": 0.330306
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IBM",
+      "relevance": 0.980348,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+    },
+    {
+      "text": "Data warehouse appliance",
+      "relevance": 0.940794,
+      "dbpedia_resource": "http://dbpedia.org/resource/Data_warehouse_appliance"
+    },
+    {
+      "text": "Business intelligence",
+      "relevance": 0.780474,
+      "dbpedia_resource": "http://dbpedia.org/resource/Business_intelligence"
+    }
+  ]
+}
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4554,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "information management solution",
+      "relevance": 0.97527
+    },
+    {
+      "text": "massive data volumes",
+      "relevance": 0.97118
+    },
+    {
+      "text": "IBM Netezza Analytics",
+      "relevance": 0.851824
+    },
+    {
+      "text": "pharmacoepidemiology research results",
+      "relevance": 0.824037
+    },
+    {
+      "text": "large longitudinal healthcare",
+      "relevance": 0.821933
+    },
+    {
+      "text": "computationally intensive algorithms",
+      "relevance": 0.818936
+    },
+    {
+      "text": "IBM Business Partner",
+      "relevance": 0.815574
+    },
+    {
+      "text": "IBM Corporation Software",
+      "relevance": 0.814939
+    },
+    {
+      "text": "IBM sales representative",
+      "relevance": 0.811415
+    },
+    {
+      "text": "IBM International Group",
+      "relevance": 0.811272
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IBM",
+      "relevance": 0.949742,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+    },
+    {
+      "text": "Trademark",
+      "relevance": 0.831412,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trademark"
+    },
+    {
+      "text": "Pharmacology",
+      "relevance": 0.632906,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pharmacology"
+    }
+  ]
+}
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15078,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IBM",
+      "relevance": 0.976205
+    },
+    {
+      "text": "predictive analytics",
+      "relevance": 0.831191
+    },
+    {
+      "text": "Fiserv",
+      "relevance": 0.798648
+    },
+    {
+      "text": "predictive analytics service",
+      "relevance": 0.760681
+    },
+    {
+      "text": "financial institutions",
+      "relevance": 0.711642
+    },
+    {
+      "text": "Fiserv business units",
+      "relevance": 0.67095
+    },
+    {
+      "text": "data warehouse",
+      "relevance": 0.636207
+    },
+    {
+      "text": "David Rose",
+      "relevance": 0.624686
+    },
+    {
+      "text": "large financial institutions",
+      "relevance": 0.6242
+    },
+    {
+      "text": "enables Fiserv business",
+      "relevance": 0.623667
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IBM",
+      "relevance": 0.9885,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+    },
+    {
+      "text": "IBM System i",
+      "relevance": 0.851395,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM_System_i"
+    },
+    {
+      "text": "IBM DB2",
+      "relevance": 0.578324,
+      "dbpedia_resource": "http://dbpedia.org/resource/IBM_DB2"
+    }
+  ]
+}
